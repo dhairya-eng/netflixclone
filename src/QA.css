@@ -1,0 +1,44 @@
+.qa{
+    background-color: black;
+    height: 550px;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+.qa_content{
+    margin-top: 25px;
+    width: 50%;
+    background-color: grey;
+   position: relative;
+   left: 290px;
+   height: 70px;
+}
+.qa_content1{
+    margin-top: 25px;
+    width: 50%;
+    background-color: grey;
+   position: relative;
+   left: 290px;
+   height: 70px;
+}
+.qa_content2{
+    margin-top: 25px;
+    width: 50%;
+    background-color: grey;
+   position: relative;
+   left: 290px;
+   height: 70px;
+}.qa_content3{
+    margin-top: 25px;
+    width: 50%;
+    background-color: grey;
+   position: relative;
+   left: 290px;
+   height: 70px;
+}
+.qa_form{
+    width: 100%;
+    display: inline-block;
+    padding: 10px; 
+    margin: 15px; 
+}

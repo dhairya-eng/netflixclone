@@ -1,0 +1,15 @@
+.middle{
+    background-color: black;
+    height: 550px;
+    margin-top: 10px;
+}
+.middle_content{
+    color: white;
+    padding: 35px;
+    padding-top: 70px;
+}
+.middle_image{
+    position: relative;
+    left: 750px;
+    bottom: 170px;
+}

@@ -1,0 +1,11 @@
+.middle4{
+    background-color: black;
+    height: 550px;
+    margin-top: 10px;
+}
+.middle4_content{
+    color: white;
+    position: relative;
+    bottom: 200px;
+    left: 650px;
+}

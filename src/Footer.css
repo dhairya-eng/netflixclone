@@ -1,0 +1,23 @@
+.footer{
+    background-color: black;
+    height: 400px;
+    margin-top: 10px;
+   
+}
+.row{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+a{
+    color: honeydew;
+}
+.info{
+    padding-top: 25px;
+    padding-left: 40px;
+    color: honeydew;
+}
+footer{
+    padding-left: 70px;
+    padding-top: 30px;
+    color: honeydew;
+}

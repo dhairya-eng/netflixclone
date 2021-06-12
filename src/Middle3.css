@@ -1,0 +1,14 @@
+.middle3{
+    background-color: black;
+    height: 550px;
+    margin-top: 10px;
+}
+.middle3_content{
+    color: white;
+    padding: 35px;
+    padding-top: 100px;
+}
+.middle3_image{ position: relative;
+    left: 750px;
+    bottom: 170px;
+}

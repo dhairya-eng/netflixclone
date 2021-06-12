@@ -1,0 +1,18 @@
+
+.middle2{
+    background-color: black;
+    height: 550px;
+    margin-top: 10px;
+}
+.middle2_content{
+    color: white;
+    position: relative;
+    top: 170px;
+    left: 650px;
+}
+.middle2_img{
+  position: absolute;
+  top: 1150px;
+  left: 10px;
+ 
+}
